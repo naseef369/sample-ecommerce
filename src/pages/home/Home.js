@@ -18,7 +18,7 @@ const navigate = useNavigate()
     <div class="card h-100">
       <img src={card1} class="card-img-top" alt="..."/>
       <div class="card-body">
-        <h5 class="card-title"></h5>
+        <h5 class="card-title">exclusive product</h5>
         <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
       </div>
       <div class="card-footer">

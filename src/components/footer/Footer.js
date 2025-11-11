@@ -46,21 +46,21 @@ export default function Footer() {
         {/* Social Icons */}
         <div className="mb-3">
           <a
-            href="#"
+            href="/"
             className="text-white mx-2"
             style={{ fontSize: "1.2rem" }}
           >
             <i className="bi bi-facebook"></i>
           </a>
           <a
-            href="#"
+            href="/"
             className="text-white mx-2"
             style={{ fontSize: "1.2rem" }}
           >
             <i className="bi bi-instagram"></i>
           </a>
           <a
-            href="#"
+            href="/"
             className="text-white mx-2"
             style={{ fontSize: "1.2rem" }}
           >
