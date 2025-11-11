@@ -25,9 +25,9 @@
 }
 
 .App-link {
-  color: #61dafb;
+color: #61dafb;
 }
-
+/* 
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -35,4 +35,28 @@
   to {
     transform: rotate(360deg);
   }
+} */
+/* 
+div.color-change {
+  animation: colorChange 0.4s 0.1s infinite  alternate;
+   background-clip: text; 
+} 
+
+@keyframes colorChange {
+  0% {
+    background-color: #61dafb;
+  }
+  25% {
+    background-color: bisque;
+  }
+  75% {
+    background-color: forestgreen;
+  }
+  100% {
+    background-color: magenta;
+  }
+} */
+
+body{
+  background-color: #61dafb;
 }

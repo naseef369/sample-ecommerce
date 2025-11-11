@@ -1,0 +1,26 @@
+/* .carousel-inner{
+    height: 50px; 
+} */
+ .carousel-container {
+  /* background: linear-gradient(135deg, #f8f9fa, #e9ecef); */
+  /* border-radius: 20px; */
+  padding: 10px;
+}
+
+.carousel-inner img {
+  transition: transform 1.5s ease-in-out,  opacity 1.2s ease-in-out;
+  /* border-radius: 20px; */
+}
+
+.carousel-inner:hover img {
+  transform: scale(1.01);
+}
+
+.carousel-fade .carousel-item {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.carousel-fade .carousel-item.active {
+  opacity: 2;
+}

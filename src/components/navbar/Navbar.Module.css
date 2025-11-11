@@ -1,0 +1,12 @@
+.nav-link {
+  transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+  color: #e6f35b !important;
+} 
+ 
+ .navbar-brand:hover {
+  color: #E8D8B9 !important;
+  text-shadow: 0 0 8px rgba(255, 255, 255, 0.3);
+} 
