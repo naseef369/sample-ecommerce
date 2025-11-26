@@ -1,0 +1,11 @@
+.shop-btn {
+  border-radius: 8px;
+  background-color: wheat;
+  transition: 0.3s ease-in-out;
+}
+
+.shop-btn:hover {
+  background-color: #f0c674; /* darker wheat shade */
+  transform: translateY(-3px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}

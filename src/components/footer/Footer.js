@@ -14,36 +14,7 @@ export default function Footer() {
           <span style={{ color: "#E8D8B9" }}>Shop</span>Seller
         </h4>
 
-        {/* Links */}
-        <div className="d-flex justify-content-center mb-3 flex-wrap">
-          <a
-            href="/"
-            className="text-white mx-3 text-decoration-none"
-            style={{ transition: "color 0.3s" }}
-          >
-            Home
-          </a>
-          <a
-            href="/products"
-            className="text-white mx-3 text-decoration-none"
-          >
-            Products
-          </a>
-          <a
-            href="/about"
-            className="text-white mx-3 text-decoration-none"
-          >
-            About
-          </a>
-          <a
-            href="/contact"
-            className="text-white mx-3 text-decoration-none"
-          >
-            Contact
-          </a>
-        </div>
-
-        {/* Social Icons */}
+          {/* Social Icons */}
         <div className="mb-3">
           <a
             href="/"

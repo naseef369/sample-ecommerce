@@ -24,9 +24,9 @@
   color: white;
 }
 
-.App-link {
-color: #61dafb;
-}
+/* .App-link {
+
+} */
 /* 
 @keyframes App-logo-spin {
   from {
@@ -56,7 +56,3 @@ div.color-change {
     background-color: magenta;
   }
 } */
-
-body{
-  background-color: #61dafb;
-}
